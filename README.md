@@ -2,7 +2,7 @@
 
 1.Dataset
 
-采用 BMEO 标注体系，数据格式:
+采用 SBMEO 标注体系，数据格式:
 
 ```
 新 B-ORG
