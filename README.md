@@ -30,6 +30,16 @@
 
 2.Train
 
+Bert_BiLSTM_CRF
+
 ```
-python main.py --do_train --num_train_epochs 30
+python main.py --do_train --model_class bert_bilstm_crf --num_train_epochs 30
+
+```
+
+BiLSTM_CRF
+
+```
+python main.py --do_train --model_class bilstm_crf --num_train_epochs 30
+
 ```
